@@ -19,7 +19,7 @@ cuda 11.3
 ```
 
 ### Downloading necessary data:
-- downloading training dataset and move it into ./data/TrainDataset/, which can be found in this download link . It contains two sub-datasets: Kvasir-SEG (900 train samples) and CVC-ClinicDB (550 train samples).
+- downloading training dataset and move it into ```./data/TrainDataset/```, which can be found in this download link . It contains two sub-datasets: Kvasir-SEG (900 train samples) and CVC-ClinicDB (550 train samples).
 - downloading testing dataset and move it into ./data/TestDataset/, which can be found in this download link [Google Drive](https://drive.google.com/drive/folders/1I626JwNulDnHxIBCho2VSU6KvwcxVWHo?usp=drive_link). It contains five sub-datsets: CVC-300 (60 test samples), CVC-ClinicDB (62 test samples), CVC-ColonDB (380 test samples), ETIS-LaribPolypDB (196 test samples), Kvasir (100 test samples).
 - downloading PVTv2 weights and and move it into ./lib/, which can be found in this download link [Google Drive](https://drive.google.com/file/d/1_VPrmDgz02iBdTAISM2JA7ZWcMf3lIdz/view?usp=drive_link).
 
